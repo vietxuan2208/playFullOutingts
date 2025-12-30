@@ -1,0 +1,11 @@
+vendor
+node_modules
+.env
+.git
+public/storage
+storage/*.key
+/.idea
+/.vscode
+Dockerfile
+docker-compose.yml
+README.md
